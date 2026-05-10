@@ -1,4 +1,5 @@
 [build]
+  base = "trading-journal"
   command = "npm ci && npm run build"
   publish = "dist"
 
